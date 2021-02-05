@@ -10,7 +10,7 @@
       "day": 1,
       "eng": "book",
       "kor": "책",
-      "isDone": false
+      "isDone": true
     },
     {
       "id": 2,
